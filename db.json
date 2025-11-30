@@ -6,9 +6,9 @@
       "price": "₹4500",
       "category": "saree",
       "img": "/assets/images/saree1.jpg",
-      "description": "A premium handwoven saree.",
-      "history": "Handwoven by artisans from Kanchipuram using traditional silk weaving methods.",
-      "region": "Tamil Nadu"
+      "description": "A luxurious silk saree handwoven in Kanchipuram.",
+      "history": "Kanchipuram sarees originated over 400 years ago in Tamil Nadu.",
+      "region": "Kanchipuram, Tamil Nadu"
     },
     {
       "id": 2,
@@ -16,9 +16,9 @@
       "price": "₹1200",
       "category": "dupatta",
       "img": "/assets/images/dupatta.jpeg",
-      "description": "Beautiful hand-dyed Ikat dupatta.",
-      "history": "Ikat fabrics are created using a resist dyeing technique on warp and weft yarns.",
-      "region": "Telangana"
+      "description": "Handcrafted Ikat patterned cotton dupatta.",
+      "history": "Ikat is an ancient dyeing technique.",
+      "region": "Pochampally, Telangana"
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
       "price": "₹5200",
       "category": "saree",
       "img": "/assets/images/banarasi.jpg",
-      "description": "Elegant handwoven silk saree with intricate zari work.",
-      "history": "Banarasi sarees are inspired by Mughal art and known for their zari brocade.",
+      "description": "Elegant handwoven silk saree.",
+      "history": "Banarasi sarees are inspired by Mughal art.",
       "region": "Uttar Pradesh"
     },
     {
@@ -36,9 +36,9 @@
       "price": "₹750",
       "category": "dupatta",
       "img": "/assets/images/kalamkari.JPG",
-      "description": "Hand-painted Kalamkari dupatta made using natural dyes.",
-      "history": "Kalamkari is an ancient pen-art textile craft.",
-      "region": "Andhra Pradesh"
+      "description": "Natural-dyed Kalamkari dupatta.",
+      "history": "Kalamkari means ‘pen art’.",
+      "region": "Machilipatnam, Andhra Pradesh"
     },
     {
       "id": 5,
@@ -46,8 +46,8 @@
       "price": "₹1800/meter",
       "category": "fabric",
       "img": "/assets/images/muga.jpg",
-      "description": "Exclusive golden Muga silk fabric.",
-      "history": "Muga silk is unique to Assam and known for its natural golden sheen.",
+      "description": "Exclusive golden Muga silk.",
+      "history": "Muga silk is unique to Assam.",
       "region": "Assam"
     },
     {
@@ -57,19 +57,17 @@
       "category": "saree",
       "img": "/assets/images/ikat.webp",
       "description": "Vibrant handwoven Ikat saree.",
-      "history": "Ikat patterns are created using tie-and-dye warp and weft yarns.",
+      "history": "Ikat patterns use tie-and-dye technique.",
       "region": "Telangana"
     },
-
-    /* NEW PRODUCTS */
     {
       "id": 7,
       "title": "Jamdani Handloom Saree",
       "price": "₹4800",
       "category": "saree",
       "img": "/assets/images/jamdani.jpg",
-      "description": "Intricately woven Jamdani saree.",
-      "history": "Jamdani weaving dates back to Mughal Bengal.",
+      "description": "Intricate Jamdani motifs.",
+      "history": "Jamdani weaving originates from Bengal.",
       "region": "West Bengal"
     },
     {
@@ -78,8 +76,8 @@
       "price": "₹1500",
       "category": "saree",
       "img": "/assets/images/kotadoria.jpg",
-      "description": "Lightweight cotton Kota Doria saree.",
-      "history": "Kota Doria features the iconic 'khats' square weave.",
+      "description": "Airy Kota Doria saree.",
+      "history": "Features ‘khats’ square weave.",
       "region": "Rajasthan"
     },
     {
@@ -88,8 +86,8 @@
       "price": "₹1100",
       "category": "dupatta",
       "img": "/assets/images/chanderi.jpg",
-      "description": "Soft silk dupatta with zari work.",
-      "history": "Chanderi weaving is known for its sheer texture and glossy finish.",
+      "description": "Soft Chanderi silk dupatta.",
+      "history": "Chanderi is famous for sheer texture.",
       "region": "Madhya Pradesh"
     },
     {
@@ -98,8 +96,8 @@
       "price": "₹2200/meter",
       "category": "fabric",
       "img": "/assets/images/tussar.jpg",
-      "description": "Rich textured Tussar silk fabric.",
-      "history": "Tussar silk is produced from wild silkworms.",
+      "description": "Rich Tussar silk.",
+      "history": "Made from wild silkworms.",
       "region": "Jharkhand"
     },
     {
@@ -108,8 +106,8 @@
       "price": "₹900",
       "category": "dupatta",
       "img": "/assets/images/ajrakh.jpg",
-      "description": "Natural-dyed Ajrakh dupatta.",
-      "history": "Ajrakh is a centuries-old hand block printing art.",
+      "description": "Ajrakh natural-dyes dupatta.",
+      "history": "Ajrakh uses hand block printing.",
       "region": "Gujarat"
     },
     {
@@ -118,8 +116,8 @@
       "price": "₹3400",
       "category": "saree",
       "img": "/assets/images/maheshwari.jpg",
-      "description": "Classic Maheshwari saree with zari pallu.",
-      "history": "Maheshwari sarees were developed under Maharani Ahilyabai Holkar.",
+      "description": "Elegant Maheshwari saree.",
+      "history": "Patronized by Maharani Ahilyabai Holkar.",
       "region": "Madhya Pradesh"
     },
     {
@@ -128,8 +126,8 @@
       "price": "₹1800",
       "category": "shawl",
       "img": "/assets/images/kullu.jpg",
-      "description": "Warm handwoven woolen Kullu shawl.",
-      "history": "Kullu shawls are famous for their colorful geometric borders.",
+      "description": "Warm wool shawl.",
+      "history": "Known for bright borders.",
       "region": "Himachal Pradesh"
     },
     {
@@ -138,8 +136,8 @@
       "price": "₹7500",
       "category": "saree",
       "img": "/assets/images/patola.jpg",
-      "description": "Premium handloom double Ikat Patola saree.",
-      "history": "Patola is a rare double Ikat weaving tradition.",
+      "description": "Double Ikat Patola saree.",
+      "history": "900-year-old weaving tradition.",
       "region": "Gujarat"
     },
     {
@@ -148,8 +146,8 @@
       "price": "₹650",
       "category": "dupatta",
       "img": "/assets/images/batik.jpg",
-      "description": "Handmade batik wax-resist dyed dupatta.",
-      "history": "Batik dyeing is an ancient wax-resist art technique.",
+      "description": "Wax-resist Batik dupatta.",
+      "history": "Ancient dyeing technique.",
       "region": "Madhya Pradesh"
     },
     {
@@ -158,12 +156,11 @@
       "price": "₹2900",
       "category": "saree",
       "img": "/assets/images/ilkal.jpg",
-      "description": "Traditional Ilkal saree with red pallu.",
-      "history": "Ilkal weaving uses a unique thread-joining technique.",
+      "description": "Traditional Ilkal saree.",
+      "history": "Uses the kondi thread technique.",
       "region": "Karnataka"
     }
   ],
-
   "pendingProducts": [],
   "users": []
 }

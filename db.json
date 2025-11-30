@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Kanchipuram Silk Saree",
+      "price": "?4500",
+      "category": "saree",
+      "img": "/assets/images/saree1.jpg",
+      "description": "A premium handwoven saree.",
+      "history": "Handwoven by artisans from Kanchipuram using traditional silk weaving methods.",
+      "region": "Tamil Nadu"
+    },
+    {
+      "id": 2,
+      "title": "Ikat Dupatta",
+      "price": "?1200",
+      "category": "dupatta",
+      "img": "/assets/images/dupatta.jpeg",
+      "description": "Beautiful hand-dyed Ikat dupatta.",
+      "history": "Ikat fabrics are created using a resist dyeing technique on warp and weft yarns.",
+      "region": "Telangana"
+    }
+  ],
+  "pendingProducts": [],
+  "users": []
+}
